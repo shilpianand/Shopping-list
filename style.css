@@ -1,0 +1,25 @@
+h1{
+  font-size: 2.0em;
+}
+
+body
+{
+    width: 100%;
+    height: 100%;
+    font-family: 'Bentham';
+    font-size: 1.5em;
+    color: rgb(255, 255, 255);
+    background: url(shop3.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+}
+
+#myList
+{
+  list-style-type: none;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
